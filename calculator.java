@@ -2,7 +2,7 @@
 /**
  * Write a description of class calculator here.
  * 
- * @author (your name) 
+ * @author (Joppe Hanoulle) 
  * @version (a version number or a date)
  */
 public class calculator
