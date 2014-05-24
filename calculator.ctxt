@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ optellen(int,\ int)
+comment1.params=c\ d
+comment1.target=int\ vermenigvuldigen(int,\ int)
+comment2.params=f\ e
+comment2.target=int\ delen(int,\ int)
+comment3.params=g\ h
+comment3.target=int\ aftrekken(int,\ int)
+comment4.params=i
+comment4.target=int\ kwadraat(int)
+comment5.params=j
+comment5.target=double\ vierkantsewortel(double)
+comment6.params=k
+comment6.target=int\ derdemacht(int)
+numComments=7

@@ -1,4 +1,7 @@
 ProjectQuiz
 ===========
 
-Een kwis over onze project klas
+Een kwis over onze project klas.
+
+Joppe
+
