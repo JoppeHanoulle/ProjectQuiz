@@ -30,10 +30,10 @@ public class TheTalkingMan
         System.out.print("- ");
         
         Scanner scanner = new Scanner(System.in);
-        
+       
         String def = scanner.nextLine();
         
-        System.out.println("Oh cool ik doe dat ook. " +def + "Dat is super tof !");
+        System.out.println("Oh cool ik doe ook " +def + ".Dat is super tof !");
         
     }
 
