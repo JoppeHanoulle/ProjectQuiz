@@ -52,11 +52,12 @@ public class code {
         System.out.println("Hoe noemde het ding dat de aardbevingen en andere trillingen meette");
         
         System.out.print("> ");
-        
+      
+       
         if("De seismograaf".equals(input))
         {
-            System.out.println("Het antwoord is correct 1 punt bij!");
-        }else
+            System.out.println("Het antwoord is correct 1 punt bij");  
+        }else 
         {
             System.out.println("Sorry je antwoord was fout eigenlijk was het de seismograaf");
             
